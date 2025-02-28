@@ -1,0 +1,20 @@
+	(1)
+VARIABLES	re78
+	
+treat	1,648**
+	(692.3)
+age	66.18
+	(45.53)
+education	430.9**
+	(178.3)
+re74	0.115
+	(0.0847)
+re75	-0.0342
+	(0.142)
+Constant	-1,636
+	(2,273)
+	
+Observations	366
+R-squared	0.042
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	

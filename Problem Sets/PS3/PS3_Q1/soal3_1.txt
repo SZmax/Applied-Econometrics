@@ -1,0 +1,22 @@
+	(1)
+VARIABLES	re78
+	
+treat	1,685***
+	(647.6)
+2.pscore_interval	-5,912
+	(6,681)
+3.pscore_interval	-6,846
+	(6,604)
+4.pscore_interval	-6,622
+	(6,627)
+5.pscore_interval	-5,691
+	(6,635)
+6.pscore_interval	-4,761
+	(6,764)
+Constant	11,012*
+	(6,585)
+	
+Observations	445
+R-squared	0.027
+Standard errors in parentheses	
+*** p<0.01, ** p<0.05, * p<0.1	
