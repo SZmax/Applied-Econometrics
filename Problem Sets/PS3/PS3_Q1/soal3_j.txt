@@ -1,9 +1,0 @@
-	(1)
-VARIABLES	re78
-	
-r1vs0.treat	1,682**
-	(688.9)
-	
-Observations	445
-Standard errors in parentheses	
-*** p<0.01, ** p<0.05, * p<0.1	
